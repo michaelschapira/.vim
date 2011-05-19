@@ -1,0 +1,8 @@
+I will try to use this git repo to have an easy way to get the same vim envrionment accross 
+servers. 
+
+I have included the .vimrc fils in the .vim directory. 
+to use it you should create a symbolic link:
+	ln -s $HOME/.vim/.vimrc $HOME/.vimrc
+
+
